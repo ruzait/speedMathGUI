@@ -1,0 +1,6 @@
+Addition Limit: 20
+Subtraction Limit: 20
+Multiplication Limit: 12
+Multiplication Table Limit: 10
+Division Limit: 20
+time_duration: 10
