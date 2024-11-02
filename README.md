@@ -15,5 +15,5 @@ To install the `speedMathGUI` application, follow these steps:
 
 1. **Clone the repository** (or download the ZIP file):
    ```bash
-   git clone https://github.com/yourusername/speedMathGUI.git
+   git clone https://github.com/ruzait/speedMathGUI.git
    cd speedMathGUI
